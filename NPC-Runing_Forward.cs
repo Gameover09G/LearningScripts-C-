@@ -21,3 +21,4 @@ public class Npc : MonoBehaviour
         newPosition.z += speed * Time.deltaTime;
         transform.position = newPosition;
     }
+}
